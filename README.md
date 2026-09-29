@@ -1,0 +1,1 @@
+# Plan-de-Respuesta-a-Incidente-de-Ransomware-Basado-en-NIST
